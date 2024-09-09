@@ -42,6 +42,9 @@ body {
   width: 20px;
 }
 
+.visually-hidden {
+  visibility: hidden;
+}
 #about {
   display: flex;
   background-color: #f6d2b8;
