@@ -3,7 +3,7 @@
 
 ## Contexte
 
-Nous proposons nos service à la photographe Nina Carducci pour optimiser son site web
+Nous proposons nos services à la photographe Nina Carducci pour optimiser son site web
 
 ## Objectifs
 
